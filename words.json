@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "word": "sports",
+    "meaning": "運動",
+    "pos": "n.",
+    "ipa": "spɔːrts",
+    "example": "We love to play sports outside!",
+    "translation": "我們喜歡在戶外做運動！",
+    "collocations": [
+      "play sports｜做運動",
+      "school sports｜學校運動"
+    ],
+    "image": "01.jpg",
+    "category": "運動"
+  },
+  {
+    "id": 2,
+    "word": "basketball",
+    "meaning": "籃球",
+    "pos": "n.",
+    "ipa": "ˈbæskɪtbɔːl",
+    "example": "Can you throw the basketball?",
+    "translation": "你會投籃球嗎？",
+    "collocations": [
+      "play basketball｜打籃球",
+      "basketball team｜籃球隊"
+    ],
+    "image": "02.jpg",
+    "category": "運動"
+  },
+  {
+    "id": 3,
+    "word": "volleyball",
+    "meaning": "排球",
+    "pos": "n.",
+    "ipa": "ˈvɑːlibɔːl",
+    "example": "We hit the volleyball over the net.",
+    "translation": "我們把排球打過球網。",
+    "collocations": [
+      "play volleyball｜打排球",
+      "volleyball team｜排球隊"
+    ],
+    "image": "03.jpg",
+    "category": "運動"
+  },
+  {
+    "id": 4,
+    "word": "bowling",
+    "meaning": "保齡球",
+    "pos": "n.",
+    "ipa": "ˈboʊlɪŋ",
+    "example": "Let’s go bowling!",
+    "translation": "我們去打保齡球吧！",
+    "collocations": [
+      "go bowling｜去打保齡球",
+      "bowling ball｜保齡球"
+    ],
+    "image": "04.jpg",
+    "category": "運動"
+  },
+  {
+    "id": 5,
+    "word": "golf",
+    "meaning": "高爾夫球",
+    "pos": "n.",
+    "ipa": "ɡɑːlf",
+    "example": "My dad and I play golf together.",
+    "translation": "我和爸爸一起打高爾夫球。",
+    "collocations": [
+      "play golf｜打高爾夫球",
+      "golf course｜高爾夫球場"
+    ],
+    "image": "05.jpg",
+    "category": "運動"
+  },
+  {
+    "id": 6,
+    "word": "baseball",
+    "meaning": "棒球",
+    "pos": "n.",
+    "ipa": "ˈbeɪsbɔːl",
+    "example": "He has a new baseball and glove.",
+    "translation": "他有一個新的棒球和手套。",
+    "collocations": [
+      "play baseball｜打棒球",
+      "baseball bat｜棒球棒"
+    ],
+    "image": "06.jpg",
+    "category": "運動"
+  },
+  {
+    "id": 7,
+    "word": "event",
+    "meaning": "項目；賽事",
+    "pos": "n.",
+    "ipa": "ɪˈvent",
+    "example": "Which event do you want to watch?",
+    "translation": "你想看哪一個項目？",
+    "collocations": [
+      "sports event｜運動賽事",
+      "school event｜學校活動"
+    ],
+    "image": "07.jpg",
+    "category": "賽事與球類"
+  },
+  {
+    "id": 8,
+    "word": "soccer",
+    "meaning": "足球",
+    "pos": "n.",
+    "ipa": "ˈsɑːkər",
+    "example": "Do you like to play soccer?",
+    "translation": "你喜歡踢足球嗎？",
+    "collocations": [
+      "play soccer｜踢足球",
+      "soccer ball｜足球"
+    ],
+    "image": "08.jpg",
+    "category": "賽事與球類"
+  },
+  {
+    "id": 9,
+    "word": "badminton",
+    "meaning": "羽球",
+    "pos": "n.",
+    "ipa": "ˈbædmɪntən",
+    "example": "We play badminton in the yard.",
+    "translation": "我們在院子裡打羽毛球。",
+    "collocations": [
+      "play badminton｜打羽球",
+      "badminton racket｜羽球拍"
+    ],
+    "image": "09.jpg",
+    "category": "賽事與球類"
+  },
+  {
+    "id": 10,
+    "word": "tennis",
+    "meaning": "網球",
+    "pos": "n.",
+    "ipa": "ˈtenɪs",
+    "example": "They play tennis on weekends.",
+    "translation": "他們在週末打網球。",
+    "collocations": [
+      "play tennis｜打網球",
+      "tennis court｜網球場"
+    ],
+    "image": "10.jpg",
+    "category": "賽事與球類"
+  },
+  {
+    "id": 11,
+    "word": "football",
+    "meaning": "美式橄欖球",
+    "pos": "n.",
+    "ipa": "ˈfʊtbɔːl",
+    "example": "He throws the football to his friend.",
+    "translation": "他把美式橄欖球扔給他的朋友。",
+    "collocations": [
+      "American football｜美式橄欖球",
+      "football player｜美式橄欖球員"
+    ],
+    "image": "11.jpg",
+    "category": "賽事與球類"
+  },
+  {
+    "id": 12,
+    "word": "dodge ball",
+    "meaning": "躲避球",
+    "pos": "n.",
+    "ipa": "ˈdɑːdʒbɔːl",
+    "example": "Watch out and dodge that dodge ball!",
+    "translation": "當心，躲開那顆躲避球！",
+    "collocations": [
+      "play dodge ball｜打躲避球",
+      "dodge ball game｜躲避球比賽"
+    ],
+    "image": "12.jpg",
+    "category": "賽事與球類"
+  },
+  {
+    "id": 13,
+    "word": "activity",
+    "meaning": "活動",
+    "pos": "n.",
+    "ipa": "ækˈtɪvəti",
+    "example": "Painting is my favorite activity!",
+    "translation": "畫畫是我最喜歡的活動！",
+    "collocations": [
+      "outdoor activity｜戶外活動",
+      "fun activity｜有趣的活動"
+    ],
+    "image": "13.jpg",
+    "category": "戶外活動"
+  },
+  {
+    "id": 14,
+    "word": "tent",
+    "meaning": "帳篷",
+    "pos": "n.",
+    "ipa": "tent",
+    "example": "We will sleep in a tent tonight!",
+    "translation": "我們今晚要睡在帳篷裡！",
+    "collocations": [
+      "set up a tent｜搭帳篷",
+      "camping tent｜露營帳篷"
+    ],
+    "image": "14.jpg",
+    "category": "戶外活動"
+  },
+  {
+    "id": 15,
+    "word": "surf",
+    "meaning": "衝浪",
+    "pos": "v.",
+    "ipa": "sɜːrf",
+    "example": "They love to surf in the ocean.",
+    "translation": "他們喜歡在海裡衝浪。",
+    "collocations": [
+      "learn to surf｜學衝浪",
+      "go surfing｜去衝浪"
+    ],
+    "image": "15.jpg",
+    "category": "戶外活動"
+  },
+  {
+    "id": 16,
+    "word": "roller-skate",
+    "meaning": "溜直排輪；溜輪式溜冰鞋",
+    "pos": "v.",
+    "ipa": "ˈroʊlər skeɪt",
+    "example": "We can roller-skate in the park.",
+    "translation": "我們可以在公園裡溜輪式溜冰鞋。",
+    "collocations": [
+      "learn to roller-skate｜學溜輪式溜冰鞋",
+      "roller-skate in the park｜在公園溜輪式溜冰鞋"
+    ],
+    "image": "16.jpg",
+    "category": "戶外活動"
+  },
+  {
+    "id": 17,
+    "word": "climb",
+    "meaning": "攀爬",
+    "pos": "v.",
+    "ipa": "klaɪm",
+    "example": "Children love to climb trees.",
+    "translation": "孩子們喜歡爬樹。",
+    "collocations": [
+      "climb a hill｜爬小山",
+      "climb stairs｜爬樓梯"
+    ],
+    "image": "17.jpg",
+    "category": "戶外活動"
+  },
+  {
+    "id": 18,
+    "word": "mountain",
+    "meaning": "山",
+    "pos": "n.",
+    "ipa": "ˈmaʊntən",
+    "example": "We hiked up the mountain yesterday.",
+    "translation": "我們昨天爬上了那座山。",
+    "collocations": [
+      "a high mountain｜高山",
+      "mountain trail｜山徑"
+    ],
+    "image": "18.jpg",
+    "category": "戶外活動"
+  },
+  {
+    "id": 19,
+    "word": "experience",
+    "meaning": "體驗；經驗",
+    "pos": "v. / n.",
+    "ipa": "ɪkˈspɪriəns",
+    "example": "We can experience new things here!",
+    "translation": "我們可以在這裡體驗新事物！",
+    "collocations": [
+      "a new experience｜新體驗",
+      "experience different cultures｜體驗不同文化"
+    ],
+    "image": "19.jpg",
+    "category": "旅行與風景"
+  },
+  {
+    "id": 20,
+    "word": "scenery",
+    "meaning": "風景",
+    "pos": "n.",
+    "ipa": "ˈsiːnəri",
+    "example": "The scenery here is beautiful!",
+    "translation": "這裡的風景真漂亮！",
+    "collocations": [
+      "beautiful scenery｜美麗的風景",
+      "enjoy the scenery｜欣賞風景"
+    ],
+    "image": "20.jpg",
+    "category": "旅行與風景"
+  },
+  {
+    "id": 21,
+    "word": "foreign",
+    "meaning": "外國的",
+    "pos": "adj.",
+    "ipa": "ˈfɔːrən",
+    "example": "They went to a foreign country.",
+    "translation": "他們去了一個外國國家。",
+    "collocations": [
+      "a foreign country｜外國",
+      "foreign language｜外語"
+    ],
+    "image": "21.jpg",
+    "category": "旅行與風景"
+  },
+  {
+    "id": 22,
+    "word": "tower",
+    "meaning": "塔",
+    "pos": "n.",
+    "ipa": "ˈtaʊər",
+    "example": "The tower is very tall.",
+    "translation": "那座塔非常高。",
+    "collocations": [
+      "clock tower｜鐘塔",
+      "a tall tower｜高塔"
+    ],
+    "image": "22.jpg",
+    "category": "旅行與風景"
+  },
+  {
+    "id": 23,
+    "word": "temple",
+    "meaning": "寺廟",
+    "pos": "n.",
+    "ipa": "ˈtempəl",
+    "example": "We visited an old temple.",
+    "translation": "我們參觀了一座古老的寺廟。",
+    "collocations": [
+      "visit a temple｜參觀寺廟",
+      "an old temple｜古老的寺廟"
+    ],
+    "image": "23.jpg",
+    "category": "旅行與風景"
+  },
+  {
+    "id": 24,
+    "word": "church",
+    "meaning": "教堂",
+    "pos": "n.",
+    "ipa": "tʃɜːrtʃ",
+    "example": "The church is quiet.",
+    "translation": "教堂很安靜。",
+    "collocations": [
+      "visit a church｜參觀教堂",
+      "church bell｜教堂鐘聲"
+    ],
+    "image": "24.jpg",
+    "category": "旅行與風景"
+  }
+]
