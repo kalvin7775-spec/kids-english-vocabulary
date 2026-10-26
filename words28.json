@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "word": "cruel",
+    "ipa": "ˈkruːəl",
+    "meaning": "殘忍的",
+    "pos": "adj.",
+    "example": "The cruel king would not help the hungry people.",
+    "translation": "殘忍的國王不願幫助飢餓的人們。",
+    "collocations": [
+      "a cruel king｜殘忍的國王",
+      "be cruel to animals｜虐待動物"
+    ],
+    "category": "性格與特質",
+    "image": "u28-01.jpg"
+  },
+  {
+    "id": 2,
+    "word": "considerate",
+    "ipa": "kənˈsɪdərət",
+    "meaning": "體貼的",
+    "pos": "adj.",
+    "example": "It is considerate of you to hold the door for me.",
+    "translation": "你幫我扶著門，真體貼。",
+    "collocations": [
+      "be considerate of others｜體貼他人",
+      "a considerate friend｜體貼的朋友"
+    ],
+    "category": "性格與特質",
+    "image": "u28-02.jpg"
+  },
+  {
+    "id": 3,
+    "word": "selfish",
+    "ipa": "ˈselfɪʃ",
+    "meaning": "自私的",
+    "pos": "adj.",
+    "example": "It is selfish to keep all the toys for yourself.",
+    "translation": "把所有玩具都留給自己是自私的。",
+    "collocations": [
+      "selfish behavior｜自私的行為",
+      "a selfish choice｜自私的選擇"
+    ],
+    "category": "性格與特質",
+    "image": "u28-03.jpg"
+  },
+  {
+    "id": 4,
+    "word": "gentle",
+    "ipa": "ˈdʒentəl",
+    "meaning": "溫柔的",
+    "pos": "adj.",
+    "example": "Be gentle when you hold the kitten.",
+    "translation": "抱小貓時要溫柔。",
+    "collocations": [
+      "a gentle voice｜溫柔的聲音",
+      "be gentle with｜溫柔地對待"
+    ],
+    "category": "性格與特質",
+    "image": "u28-04.jpg"
+  },
+  {
+    "id": 5,
+    "word": "rude",
+    "ipa": "ruːd",
+    "meaning": "粗魯的；無禮的",
+    "pos": "adj.",
+    "example": "It is rude to push in front of others.",
+    "translation": "插隊擠到別人前面是無禮的。",
+    "collocations": [
+      "be rude to｜對……無禮",
+      "rude behavior｜粗魯的行為"
+    ],
+    "category": "性格與特質",
+    "image": "u28-05.jpg"
+  },
+  {
+    "id": 6,
+    "word": "generous",
+    "ipa": "ˈdʒenərəs",
+    "meaning": "慷慨的",
+    "pos": "adj.",
+    "example": "My generous friend shared her crayons with us.",
+    "translation": "我慷慨的朋友和我們分享她的蠟筆。",
+    "collocations": [
+      "a generous gift｜慷慨的禮物",
+      "be generous with｜不吝惜給予"
+    ],
+    "category": "性格與特質",
+    "image": "u28-06.jpg"
+  },
+  {
+    "id": 7,
+    "word": "evil",
+    "ipa": "ˈiːvəl",
+    "meaning": "邪惡的",
+    "pos": "adj.",
+    "example": "The evil wizard hid the village's water.",
+    "translation": "邪惡的巫師把村莊的水藏起來。",
+    "collocations": [
+      "an evil wizard｜邪惡的巫師",
+      "an evil plan｜邪惡的計畫"
+    ],
+    "category": "性格與特質",
+    "image": "u28-07.jpg"
+  },
+  {
+    "id": 8,
+    "word": "diligent",
+    "ipa": "ˈdɪlɪdʒənt",
+    "meaning": "勤奮的",
+    "pos": "adj.",
+    "example": "The diligent student practices reading every day.",
+    "translation": "勤奮的學生每天練習閱讀。",
+    "collocations": [
+      "a diligent student｜勤奮的學生",
+      "diligent work｜勤奮的工作"
+    ],
+    "category": "性格與特質",
+    "image": "u28-08.jpg"
+  },
+  {
+    "id": 9,
+    "word": "humble",
+    "ipa": "ˈhʌmbəl",
+    "meaning": "謙虛的",
+    "pos": "adj.",
+    "example": "She won the race but stayed humble.",
+    "translation": "她贏得了比賽，卻仍保持謙虛。",
+    "collocations": [
+      "stay humble｜保持謙虛",
+      "a humble person｜謙虛的人"
+    ],
+    "category": "性格與特質",
+    "image": "u28-09.jpg"
+  },
+  {
+    "id": 10,
+    "word": "humorous",
+    "ipa": "ˈhjuːmərəs",
+    "meaning": "幽默的",
+    "pos": "adj.",
+    "example": "His humorous story made us laugh.",
+    "translation": "他幽默的故事讓我們笑了。",
+    "collocations": [
+      "a humorous story｜幽默的故事",
+      "a humorous remark｜幽默的話語"
+    ],
+    "category": "性格與特質",
+    "image": "u28-10.jpg"
+  },
+  {
+    "id": 11,
+    "word": "proud",
+    "ipa": "praʊd",
+    "meaning": "驕傲的；自豪的",
+    "pos": "adj.",
+    "example": "I am proud of the model I built.",
+    "translation": "我為自己做的模型感到自豪。",
+    "collocations": [
+      "be proud of｜以……為榮",
+      "proud parents｜自豪的父母"
+    ],
+    "category": "性格與特質",
+    "image": "u28-11.jpg"
+  },
+  {
+    "id": 12,
+    "word": "lazy",
+    "ipa": "ˈleɪzi",
+    "meaning": "懶惰的",
+    "pos": "adj.",
+    "example": "I feel lazy, but I will put my toys away.",
+    "translation": "我覺得懶懶的，但我還是會收好玩具。",
+    "collocations": [
+      "feel lazy｜覺得懶懶的",
+      "a lazy afternoon｜悠閒的午後"
+    ],
+    "category": "性格與特質",
+    "image": "u28-12.jpg"
+  },
+  {
+    "id": 13,
+    "word": "serious",
+    "ipa": "ˈsɪriəs",
+    "meaning": "嚴肅的；認真的",
+    "pos": "adj.",
+    "example": "She is serious about learning the piano.",
+    "translation": "她很認真地學鋼琴。",
+    "collocations": [
+      "be serious about｜認真對待",
+      "a serious face｜嚴肅的表情"
+    ],
+    "category": "性格與特質",
+    "image": "u28-13.jpg"
+  },
+  {
+    "id": 14,
+    "word": "mature",
+    "ipa": "məˈtʃʊr",
+    "meaning": "成熟的",
+    "pos": "adj.",
+    "example": "He made a mature choice and took turns.",
+    "translation": "他做了成熟的選擇，和別人輪流玩。",
+    "collocations": [
+      "a mature choice｜成熟的選擇",
+      "mature behavior｜成熟的行為"
+    ],
+    "category": "性格與特質",
+    "image": "u28-14.jpg"
+  },
+  {
+    "id": 15,
+    "word": "strict",
+    "ipa": "strɪkt",
+    "meaning": "嚴格的",
+    "pos": "adj.",
+    "example": "Our coach is strict about safety rules.",
+    "translation": "我們的教練嚴格要求遵守安全規則。",
+    "collocations": [
+      "a strict teacher｜嚴格的老師",
+      "be strict about｜對……要求嚴格"
+    ],
+    "category": "性格與特質",
+    "image": "u28-15.jpg"
+  },
+  {
+    "id": 16,
+    "word": "childish",
+    "ipa": "ˈtʃaɪldɪʃ",
+    "meaning": "幼稚的",
+    "pos": "adj.",
+    "example": "It was childish to shout over a small mistake.",
+    "translation": "為了一個小錯誤大喊大叫是幼稚的。",
+    "collocations": [
+      "childish behavior｜幼稚的行為",
+      "a childish argument｜幼稚的爭吵"
+    ],
+    "category": "性格與特質",
+    "image": "u28-16.jpg"
+  },
+  {
+    "id": 17,
+    "word": "outgoing",
+    "ipa": "ˈaʊtɡoʊɪŋ",
+    "meaning": "外向的",
+    "pos": "adj.",
+    "example": "My outgoing sister enjoys meeting new friends.",
+    "translation": "我外向的姊姊喜歡認識新朋友。",
+    "collocations": [
+      "an outgoing person｜外向的人",
+      "an outgoing personality｜外向的個性"
+    ],
+    "category": "性格與特質",
+    "image": "u28-17.jpg"
+  },
+  {
+    "id": 18,
+    "word": "greedy",
+    "ipa": "ˈɡriːdi",
+    "meaning": "貪心的",
+    "pos": "adj.",
+    "example": "The greedy pirate wanted all the treasure.",
+    "translation": "貪心的海盜想要所有寶藏。",
+    "collocations": [
+      "a greedy pirate｜貪心的海盜",
+      "greedy for more｜貪求更多"
+    ],
+    "category": "性格與特質",
+    "image": "u28-18.jpg"
+  },
+  {
+    "id": 19,
+    "word": "character",
+    "ipa": "ˈkærəktər",
+    "meaning": "性格；角色",
+    "pos": "n.",
+    "example": "The main character helps a lost puppy.",
+    "translation": "主角幫助一隻迷路的小狗。",
+    "collocations": [
+      "the main character｜主角",
+      "good character｜好品格"
+    ],
+    "category": "性格與特質",
+    "image": "u28-19.jpg"
+  },
+  {
+    "id": 20,
+    "word": "crazy",
+    "ipa": "ˈkreɪzi",
+    "meaning": "瘋狂的；著迷的",
+    "pos": "adj.",
+    "example": "We are crazy about building model rockets.",
+    "translation": "我們非常著迷於製作火箭模型。",
+    "collocations": [
+      "be crazy about｜熱衷於",
+      "a crazy idea｜瘋狂的點子"
+    ],
+    "category": "性格與特質",
+    "image": "u28-20.jpg"
+  },
+  {
+    "id": 21,
+    "word": "honest",
+    "ipa": "ˈɑːnɪst",
+    "meaning": "誠實的",
+    "pos": "adj.",
+    "example": "The honest boy returned the lost wallet.",
+    "translation": "誠實的男孩歸還了遺失的錢包。",
+    "collocations": [
+      "be honest with｜對……誠實",
+      "an honest answer｜誠實的回答"
+    ],
+    "category": "性格與特質",
+    "image": "u28-21.jpg"
+  },
+  {
+    "id": 22,
+    "word": "stingy",
+    "ipa": "ˈstɪndʒi",
+    "meaning": "小氣的",
+    "pos": "adj.",
+    "example": "The stingy man would not share his snacks.",
+    "translation": "那個小氣的人不願分享他的點心。",
+    "collocations": [
+      "be stingy with money｜在金錢上小氣",
+      "a stingy person｜小氣的人"
+    ],
+    "category": "性格與特質",
+    "image": "u28-22.jpg"
+  },
+  {
+    "id": 23,
+    "word": "shy",
+    "ipa": "ʃaɪ",
+    "meaning": "害羞的",
+    "pos": "adj.",
+    "example": "I feel shy when I meet new people.",
+    "translation": "認識新朋友時，我會害羞。",
+    "collocations": [
+      "feel shy｜感到害羞",
+      "a shy smile｜害羞的微笑"
+    ],
+    "category": "性格與特質",
+    "image": "u28-23.jpg"
+  },
+  {
+    "id": 24,
+    "word": "sincere",
+    "ipa": "sɪnˈsɪr",
+    "meaning": "真誠的",
+    "pos": "adj.",
+    "example": "She gave a sincere apology for breaking the cup.",
+    "translation": "她為打破杯子真誠地道歉。",
+    "collocations": [
+      "a sincere apology｜真誠的道歉",
+      "sincere thanks｜真誠的感謝"
+    ],
+    "category": "性格與特質",
+    "image": "u28-24.jpg"
+  }
+]
